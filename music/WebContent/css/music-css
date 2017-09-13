@@ -1,0 +1,6 @@
+.max{width:1340px;height:800px;position:absolute;}
+.middle{width="1300px";height:600px;}
+input{width:150px;height:30px;margin-left:1000px;margin-top:25px;}
+.m-style{background£º#123456;}
+.s-style{width:50px;height:10px:margin-left:1000px;margin-top:5px;}
+body{background:url(../image/6215159_120549458000_2.png);}
